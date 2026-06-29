@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3i0015/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部九
+  hash: sha256:0bce925b640ea8fd115d42e34eba7e8dcf8661f4ed3df866ab1767c420beaed8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3i0015_WYG_000-1a, image: WYG0844/WYG0844-0217a.png}
+body:
+  text: 香譜譜録類一器物之屬提要臣等謹案香譜二卷舊夲不著撰人名氏左圭百川學海題為宋洪芻撰芻字駒父南昌人紹聖元年進士靖康中官至諌議大夫謫沙門島以卒所作香譜宋史藝文志著録周紫芝太倉稊米集有題洪駒父香譜後曰厯陽沈諫議家昔號藏書最多者今世所傳香譜蓋諫議公所自集也以為盡得諸家所載香事矣以今洪駒父所集觀之十分未得其一二也余在富川作妙香寮永興郭元夀賦長篇其後貴池丞劉君頴與余凡五賡其韻往返十篇所用香事頗多猶有一二事駒父譜中不録者云云則當事推重芻譜在沈立譜之上然朝公武讀書志稱芻譜集古今香法有鄭康成漢宮香南史小宗香真誥嬰香戚夫人迫駕香唐員半千香所記甚該博然通典載厯代祀天用水沉香獨遺之云云此夲有水沉香一條而所稱鄭康成諸條乃俱不載卷數比通考所載芻譜亦多一卷似非芻作沈立譜久無𫝊夲書録解題有侯氏萱堂香譜二卷不知何代人或即此書耶其書凡分四類曰香之品曰香之異曰香之事曰香之法亦頗賅備足以資考證也乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:21036d817c7b7c225a7ff4fbff4bea72cfeec25d1e8d6737e7c09d1e7d87985a
+metadata:
+  title: 香譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:17:40.197248'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3i0015/KR3i0015_000.txt
+hash: sha256:147d372cc0a40ebff40f956f4a01831177a02b900846b810e2a2bdbde81cb2f2
